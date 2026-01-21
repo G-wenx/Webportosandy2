@@ -33,7 +33,7 @@ PROFIL PROFESIONAL
 - Role Saat ini: Project Manager Officer/ PMO
 - Summary: IT Project Manager dengan spesialisasi infrastruktur skala besar, Big Data, dengan pengalaman menangani project impementasi, Maintenance serta Managed Service pada client srategis dengan cakupan produk seperti (Confluent kafka, Qlick Replicate CDC, Hasura, Talend, Cloudera, Yugabyte, AWS dll serta kepatuhan ISO 270001)
 - Key Skills: Managerial, Scrum, Agile, SLA Management, 
-- Tools : JIRA, Confluence, Notion, ClickUp, Python, Looker Studio
+- Tools : JIRA, Confluence, Notion, ClickUp, Python.
 
 Detailed Project Experience:
 1. BRI - GraphQL HASURA (2024-2027): Scrum Master. Mengelola backlog, perencanaan sprint, dan memastikan kepatuhan SLA tim managed service pasca-implementasi.
