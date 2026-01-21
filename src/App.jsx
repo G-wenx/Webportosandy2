@@ -798,11 +798,11 @@ const ChatWidget = ({ isOpen, setIsOpen, autoPrompt, setAutoPrompt }) => {
       </div>
       <div className="px-4 pb-3 flex flex-wrap gap-2 bg-[#0F0F0F]">
         {[
+          'Apa keahlian Anda?',
           'Apa pencapaian terbesar sebagai PMO?',
           'Bagaimana cara menangani hambatan tim?',
           'Detail pengalaman di proyek anda?',
           'Bagaimana cara anda mengelola SLA?',
-          'Apa keahlian anda?',
           'Cara menjadwalkan interview?',
         ].map((q) => (
           <button
