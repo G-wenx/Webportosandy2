@@ -802,7 +802,7 @@ const ChatWidget = ({ isOpen, setIsOpen, autoPrompt, setAutoPrompt }) => {
           'Bagaimana cara menangani hambatan tim?',
           'Detail pengalaman di proyek anda?',
           'Bagaimana cara anda mengelola SLA?',
-          'Apa peran dalam audit ISO 27001?',
+          'Apa keahlian anda?',
           'Cara menjadwalkan interview?',
         ].map((q) => (
           <button
